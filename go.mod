@@ -187,6 +187,7 @@ require (
 	github.com/bits-and-blooms/bitset v1.3.3 // indirect
 	github.com/clbanning/mxj/v2 v2.5.6 // indirect
 	github.com/creasty/defaults v1.6.0 // indirect
+	github.com/dapr/go-sdk v0.8.1-0.20200925214701-2d699b6c653f // indirect
 	github.com/dubbogo/gost v1.12.5 // indirect
 	github.com/dubbogo/triple v1.1.9 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
